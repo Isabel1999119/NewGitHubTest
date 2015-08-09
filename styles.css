@@ -1,0 +1,26 @@
+h1 {
+	color: blue;
+}
+
+p {
+	font-family: courier;
+	color: red
+}
+
+.firstbox {
+	width: 100px;
+	height: 100px; 
+	border: 1px solid red;
+	background-color: red
+}
+
+.secondbox {
+	width: 200px; 
+	height: 100px; 
+	border: 1px solid green; 
+	background-color: yellow
+}
+
+.redtext {
+	color: red 
+}
